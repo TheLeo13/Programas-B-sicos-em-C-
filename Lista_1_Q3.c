@@ -32,5 +32,6 @@ void imprime(int vet[], int n){
         printf("\n%d",vet[i]);
 
 }
+
 // o comando for imprime o vetor de maneira inversa começando a pecorrer o vetor pela ultima posição até a posição 0 
 
