@@ -1,4 +1,4 @@
-# Programas-B-sicos-em-C-
+# Programas-Basicos-em-C-
 Códigos na linguagem C para auxílio para iniciantes 
 
 Esse arquivo conterá exercícios propostos e resolvidos
