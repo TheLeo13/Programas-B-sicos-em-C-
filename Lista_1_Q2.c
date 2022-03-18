@@ -45,7 +45,8 @@ void imprime(int matri[],int nota[],int n){
             maior_matri = matri[i];
         }
     } 
-/* o comando for percorre todo o vetor de notas que a função imprime recebe como parâmetro e compara a nota da posição i
+
+ /* o comando for percorre todo o vetor de notas que a função imprime recebe como parâmetro e compara a nota da posição i
 com a nota presente na varíavel maior_nota, caso a nota na posição i do nosso vetor for maior que a nossa variável de comparação
 nossa variável irá receber o valor presente na posição i e nossa variável maior_nota2 recebe o antigo valor presente na variável 
 maior-nota. Desse forma ao final do laço as duas variáveis estarão contendo os dois maiores valores presentes no vetor de notas.
